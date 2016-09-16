@@ -1,0 +1,11 @@
+{
+    "name" : "rpiMusic",
+    "description": "Music player linked to a server for remote control",
+    "version": "0.1",
+    "author" : {
+        "name" : "Davidenko Corentin",
+        "email" : "corentin.davidenko@gmail.com"
+    },
+
+    "main" : "start.js"
+}
